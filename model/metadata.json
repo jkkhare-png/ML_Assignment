@@ -1,0 +1,12 @@
+{
+  "dataset": "UCI Spambase",
+  "dataset_url": "https://archive.ics.uci.edu/dataset/94/spambase",
+  "random_state": 42,
+  "split": "80% stratified training / 20% stratified testing",
+  "training_rows": 3680,
+  "test_rows": 921,
+  "feature_count": 57,
+  "target_column": "spam",
+  "trained_at_utc": "2026-11-05T15:37:00.972748+00:00",
+  "scikit_learn_version": "1.7.2"
+}
