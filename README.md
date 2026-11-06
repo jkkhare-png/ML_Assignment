@@ -25,7 +25,7 @@ The first 48 features measure word frequencies, the next 6 measure character fre
 
 **GitHub Repository:** https://github.com/jkkhare-png/ML_Assignment
 
-**Live Streamlit App:** _To be added after deployment._
+**Live Streamlit App:** https://mlassignment-lgvdzcn82vgksryq9o2s2i.streamlit.app/
 
 ## d. Models used
 
